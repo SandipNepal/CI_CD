@@ -1,2 +1,2 @@
-# node-docker
-Simple node and express docker 
+# node-docker-travis
+Setting up CI/CD pipeline with docker and travis 
